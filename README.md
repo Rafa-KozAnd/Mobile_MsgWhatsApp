@@ -9,7 +9,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Mobile_MsgWhatsApp">
 </p>
 
-- Project Name: 'Maratona Explorer';
+- Project Name: 'Mobile_MsgWhatsApp';
 - Languages: 'Java Mobile';
 - Softwares/Work Tools: 'Android Studio';
 - Resume: (About_the_Repository);
